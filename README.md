@@ -11,3 +11,5 @@ Issues
 ---
 - I think perhaps my matrix strategy isn't optimized for the settings of the game right now! Perhaps I need a way to produce the betting table generatively.
 - I need to research other card counting strategies
+
+I probably won't develop this anymore. It was just a fun little project.
